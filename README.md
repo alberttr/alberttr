@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Alberto Tamayo Ramos
 
-<!--
-**alberttr/alberttr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 Software Engineer | Architect | Tech Lead
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Active working on:
+- 🧾 Token & NFT smart contracts on Ethereum
+- ⚙️ Real-time platforms with WebRTC & Socket.io
+- 🛒 Scalable multi-tenant inventory platforms
+- ⛓️ Web3 apps on Ethereum
+- 🎮 Web3 gaming
+- 🕸️ Decentralized Web3 platforms
+
+
+---
+
+## 💬 Ask me about:
+- PHP, Laravel
+- Vue 3, React, Vite
+- Node.js, NestJS, Express, Socket.io
+- WebRTC, Web3, Smart Contracts
+- Stripe Connect & monetization systems
+- PostgreSQL, MongoDB, MySQL, Redis
+
+---
+
+## 📫 Contact me:
+- LinkedIn: [linkedin.com/in/alberto-tamayo-ramos](https://www.linkedin.com/in/alberto-tamayo-ramos)
+- Email: albertdev82@gmail.com
+
+---
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=alberttr&theme=radical&no-frame=true&no-bg=true&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📈 GitHub Stats
+
+![Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=alberttr&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alberttr&layout=compact&theme=radical)
