@@ -35,10 +35,3 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=alberttr&theme=radical&no-frame=true&no-bg=true&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
 
----
-
-## 📈 GitHub Stats
-
-![Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=alberttr&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alberttr&layout=compact&theme=radical)
