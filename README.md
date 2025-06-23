@@ -33,5 +33,5 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=alberttr&theme=radical&no-frame=true&no-bg=true&margin-w=5&title=Commits,Experience)]()
+[![trophy](https://github-profile-trophy.vercel.app/?username=alberttr&theme=radical&no-frame=true&no-bg=true&margin-w=5&title=Commits)]()
 
